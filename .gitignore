@@ -1,0 +1,27 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# Model files (optional – you might want to upload the model; remove this line if you want to include it)
+# models/*.h5
+
+# Streamlit
+.streamlit/
